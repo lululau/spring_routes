@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'spring_routes'
+
+SpringRoutes::Cli.start
